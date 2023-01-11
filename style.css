@@ -1,0 +1,13 @@
+html, * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
+
+#main-canvas {
+    width: 100%;
+    height: 100vh;
+}
